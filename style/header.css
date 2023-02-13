@@ -1,14 +1,12 @@
 .header {
     background: gray;
     text-decoration: none;
-    
     color: var(--text-color);
 }
 
 .header__name {
     position: fixed;
     padding: 20px 0px 0px;
-    clip: 20px 40px;
     border-width: 30px;
 }
 
